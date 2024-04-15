@@ -1,0 +1,11 @@
+pyserial==3.5
+fastapi[all]==0.89.0
+uvicorn[standard]==0.20.0
+opencv-python==4.9.0.80
+opencv-contrib-python==4.9.0.80
+ultralytics==8.1.23
+python-multipart==0.0.9
+tensorflow
+mediapipe==0.10.10
+pandas==2.2.1
+numpy==1.26.4
